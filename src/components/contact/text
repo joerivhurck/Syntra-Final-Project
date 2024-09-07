@@ -1,0 +1,15 @@
+   <div class="Text-area mb-4">
+          <div class="mb-2">Bericht</div>
+          <textarea
+            class="py-2 px-4 hover:border-black border-[1px]"
+            placeholder="Vul Hier je vraag in"
+          ></textarea>
+        </div>
+        <div class="naam-input mb-4">
+          <div>Naam</div>
+          <input type="text" />
+        </div>
+        <div class="email-input mb-4">
+          <div>E-mail</div>
+          <input type="text" placeholder="Waar kunnen we je contacteren" />
+        </div>
